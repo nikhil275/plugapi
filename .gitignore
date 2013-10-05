@@ -1,6 +1,6 @@
-*.class
+/config.js
 
-# Package Files #
-*.jar
-*.war
-*.ear
+.idea/
+node_modules/
+
+.DS_Store
